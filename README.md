@@ -34,6 +34,7 @@ Create an issue or a pull request for new videos/streams!
         - Drives inspection and cleanup
         - Reassembly
         - Reading Caps
+        - Recap
     - Apple 2c
         - Disassembling
         - Cleaning plastics
@@ -50,7 +51,6 @@ Create an issue or a pull request for new videos/streams!
     - markdown-cpp finalization (regex problems!)
 - Retro
     - Amiga 2000
-        - Recap
         - Retrobright
         - Final reassembly
     - Apple2c
