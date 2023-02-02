@@ -34,6 +34,7 @@ Create an issue or a pull request for new videos/streams!
         - Drives inspection and cleanup
         - Reassembly
         - Reading Caps
+        - Recap
     - Apple 2c
         - Disassembling
         - Cleaning plastics
@@ -54,7 +55,6 @@ Create an issue or a pull request for new videos/streams!
 		- non-copyable or explicit copy-constructible? The latter allows `X a{b}`, but not `X a = b;`
 - Retro
     - Amiga 2000
-        - Recap
         - Retrobright
         - Final reassembly
     - Apple2c
