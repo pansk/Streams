@@ -52,7 +52,7 @@ Create an issue or a pull request for new videos/streams!
 - Design
 	- Slides of "Le API e il miele" in English
 	- Work on "The meaning of const" (long overdue post)
-		- non-copyable or explicit copy-constructible? The latter allows `X a{b}`, but not `X a = b;`
+		- ~~non-copyable or explicit copy-constructible? The latter allows `X a{b}`, but not `X a = b;`~~
 - Retro
     - Amiga 2000
         - Retrobright
