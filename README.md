@@ -17,9 +17,13 @@ Create an issue or a pull request for new videos/streams!
             - season 2 - C++ conversion (few videos recorded, recap)
             - season 3 - Cleanup
         - NakedCppGL (no repo?)
-    - GLSL
+	- C++23 Language Features (if consteval, deducing this)
+    - OpenGL
         - GLSL Balls (no repo)
         - GLSL Balls + random dithering (no repo)
+        - C#+OpenGL Programming Tutorial
+            - Preparation done in live twitch
+            - Video Tutorial recorded offline?
 - OBS
     - Plugin
     - Shaders
@@ -45,23 +49,30 @@ Create an issue or a pull request for new videos/streams!
 ## Upcoming
 
 - Coding
-    - C#+OpenGL Programming Tutorial
-        - Preparation done in live twitch
-        - Video Tutorial recorded offline?
-    - markdown-cpp finalization (regex problems!)
+    - C++23 Language Features (continued)
+    - Differentiable programming
+        - Overview
+        - Check Enzyme and CLAD plugins for Clang
 - Design
 	- Slides of "Le API e il miele" in English
 	- Work on "The meaning of const" (long overdue post)
 		- ~~non-copyable or explicit copy-constructible? The latter allows `X a{b}`, but not `X a = b;`~~
 - Retro
-    - Amiga 2000
-        - Retrobright
-        - Final reassembly
-    - Apple2c
-        - Retrobright
-        - Retro (full machine & spacebar)
-    - Amiga 500+ (2x)
-    - Amiga 1000
-    - C64 (4x)
-    - C128
-    - Atari ST (3x)
+    - Commodore
+        - Amiga 2000
+            - Retrobright
+            - Final reassembly
+        - C64 (4x)
+            - 1541 Change transformer (110V -> 220V)
+        - C128
+        - VIC20
+	- Amiga 500+ (2x)
+        - Amiga 1000
+    - Apple 
+        - Apple2c
+            - Retrobright
+            - Retro (full machine & spacebar)
+	- pixel-perfect interface (to HDMI) with FPGA or Raspberry (PICO?)
+    - Atari 
+        - 1040ST (3x)
+	- 65XE
